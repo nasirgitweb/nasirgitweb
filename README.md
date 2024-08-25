@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **freelancernasir46@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gMTPRMqUerDpBbBDzeUdDrRjl34F7jj6/view](https://drive.google.com/file/d/1gMTPRMqUerDpBbBDzeUdDrRjl34F7jj6/view)
+- 📄 Know about my experiences [https://shorturl.at/BxxXX](https://shorturl.at/BxxXX)
 
 - 🥴 Don't ask me about **my personal life**
 
