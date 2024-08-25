@@ -18,13 +18,13 @@
 
 - 👨‍💻 All of my projects are available at [nirjon-gazi.vercel.app](nirjon-gazi.vercel.app)
 
-- 📝 I regularly write articles on [https://www.facebook.com/i.am.nirjon.1.in.a.million](https://www.facebook.com/i.am.nirjon.1.in.a.million)
-
-- 🥴 Don't ask me about **my personal life**
+- 📝 I regularly write articles on [https://shorturl.at/ShFHF](https://shorturl.at/ShFHF)
 
 - 📫 How to reach me **freelancernasir46@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gMTPRMqUerDpBbBDzeUdDrRjl34F7jj6/view](https://drive.google.com/file/d/1gMTPRMqUerDpBbBDzeUdDrRjl34F7jj6/view)
+
+- 🥴 Don't ask me about **my personal life**
 
 - ⚡ Fun fact **I am so funny, Hehehe 🤭**
 
