@@ -5,10 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nasirgitweb" alt="nasirgitweb" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnoxemc5dzUycWM5bTBmNnlmc2NmbnR4M3B0djNvamFjNDR5MzFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif"/>
-
 <p align="left"> <a href="https://twitter.com/nasirahmed46" target="blank"><img src="https://img.shields.io/twitter/follow/nasirahmed46?logo=twitter&style=for-the-badge" alt="nasirahmed46" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnoxemc5dzUycWM5bTBmNnlmc2NmbnR4M3B0djNvamFjNDR5MzFtaCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QNFhOolVeCzPQ2Mx85/giphy.gif"/>
 
 - 👋🏻 Hello it's me [Gazi Nasir Ahamed](https://www.facebook.com/i.am.nirjon.1.in.a.million)
 
